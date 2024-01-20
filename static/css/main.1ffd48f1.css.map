@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.1ffd48f1.css","mappings":"AAAA,KAGC,iBAAkB,CADlB,YAAa,CADb,iBAGD","sources":["layout/PageWrapper/styles.css"],"sourcesContent":["main {\n\tposition: relative;\n\tpadding: 20px;\n\toverflow-x: hidden;\n}"],"names":[],"sourceRoot":""}
