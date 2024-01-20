@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { StyledPageWrapper } from "./PageWrapper.styled";
+import "./styles.css"
 import { NavLink, Outlet } from "react-router-dom";
 import { ModeSwitch, Burger, Menu } from "../../components";
 // import logo from "../../Logo.svg";

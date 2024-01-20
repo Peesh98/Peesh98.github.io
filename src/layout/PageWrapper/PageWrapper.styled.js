@@ -34,9 +34,11 @@ export const StyledPageWrapper = styled.header`
 	animation: 1.5s ${slideIn} ease-out, 3s ${fadeIn} linear;
 	animation-iteration-count: 1;
 	animation-fill-mode: backwards;
-	position: relative;
+	position: fixed;
+	top: 0px;
 	font-family: "Lato", sans-serif;
 	transition: color 0.5s linear, background-color 0.5s linear;
+	z-index: 1;
 
 	nav #links {
 		display: flex;

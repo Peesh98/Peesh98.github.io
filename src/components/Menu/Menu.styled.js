@@ -8,7 +8,7 @@ export const StyledMenu = styled.nav`
 	height: calc(100vh - 90px);
 	width: 100vw;
 	text-align: left;
-	position: absolute;
+	position: fixed;
 	top: 90px;
 	left: 0px;
 	transition: ${({ open }) =>
